@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ricottacapote2l.github.io/sz-f73/sitemap.xml
